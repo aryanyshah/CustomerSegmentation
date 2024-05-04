@@ -39,6 +39,7 @@ Data Exploration: Exploratory Data Analysis (EDA) to gain insights into the dist
 Customer Segmentation: Application of segmentation techniques such as clustering to categorize customers based on similar attributes and behaviors.
 Predictive Modeling: Building predictive models to forecast customer behavior, such as likelihood of responding to promotions or making purchases.
 Recommendations: Providing actionable recommendations based on the insights gained from the analysis.
+
 Getting Started
 To get started with this project, follow these steps:
 
